@@ -1,0 +1,17 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+// Função principal
+int main() {
+    int x = 5;      // Declarando a variável x
+    float y = 3.14; // Declarando a variável y
+
+    // Soma de x e y
+    float resultado = x + y;
+
+    // Impressão do resultado
+    printf("Resultado: %f\n", resultado);
+
+    return 0;
+}
+
